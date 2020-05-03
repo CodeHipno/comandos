@@ -1,1 +1,5 @@
-# comandos
+Vários Comandos para o seu bot no discord...
+Feito em Discord.js...
+Em caso de dúvidas me chame no discord: zHipno#1949
+Adicione o meu bot: //Site em desenvolvimento
+Por enquanto, para adicionar o meu bot use: https://discordapp.com/oauth2/authorize?client_id=704502320695738449&scope=bot&permissions=8
